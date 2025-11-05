@@ -1,9 +1,9 @@
-🧮 Analizador de Archivos Numéricos
-🚀 Descripción
+###🧮 Analizador de Archivos Numéricos
+##🚀 Descripción
 
 Programa en Java que lee archivos con números, genera estadísticas (mínimo, máximo, promedio, mediana) y ordena los valores. También realiza pruebas básicas de rendimiento usando distintas colecciones (List, Set, Map).
 
-⚙️ Archivos Principales
+###⚙️ Archivos Principales
 
 Main.java → Punto de entrada.
 
@@ -15,13 +15,13 @@ Bench.java → Comparación de rendimiento entre colecciones.
 
 Utilidades.java → Funciones de apoyo.
 
-📊 Archivos Generados
+###📊 Archivos Generados
 
 estadisticas.txt → Estadísticas del archivo de números.
 
 ordenado.txt → Números ordenados.
 
-🧠 Tecnologías
+###🧠 Tecnologías
 
 Java 21
 
